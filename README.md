@@ -27,10 +27,6 @@
 * You cannot create a new appointment for an user that already has an appointment with the same doctor on the same day.
 * You cannot create a new appointment if the doctor for that speciality isn't registered.
 
-### YouTube video testing the app: 
-https://youtu.be/VCgQxcgASfg
-
-
 ## Endpoints
   * http://localhost:8080/patients
   * http://localhost:8080/patients/cedula/{cedula}
