@@ -1,0 +1,20 @@
+{
+  "appointments": [
+    {
+      "speciality": "Cardiología",
+      "cedula": 123456789,
+      "date": "2023-07-18"
+    },
+    {
+      "speciality": "Pediatría",
+      "cedula": 987654321,
+      "date": "2023-07-20"
+    },
+    {
+      "speciality": "Dermatología",
+      "cedula": 456789123,
+      "date": "2023-07-22"
+    }
+  ]
+}
+

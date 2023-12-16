@@ -1,0 +1,26 @@
+{
+  "patients": [
+    {
+      "name": "Ana",
+      "lastName": "García",
+      "cedula": 123456789,
+      "age": 30,
+      "phone": 5551234
+    },
+    {
+      "name": "Juan",
+      "lastName": "Pérez",
+      "cedula": 987654321,
+      "age": 45,
+      "phone": 5555678
+    },
+    {
+      "name": "María",
+      "lastName": "López",
+      "cedula": 556789123,
+      "age": 25,
+      "phone": 5559876
+    }
+  ]
+}
+

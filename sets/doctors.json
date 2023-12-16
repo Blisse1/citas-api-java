@@ -1,0 +1,29 @@
+{
+  "doctors": [
+    {
+      "name": "Alejandro",
+      "lastName": "Gómez",
+      "speciality": "Cardiología",
+      "cedula": 123456789,
+      "office": 101,
+      "email": "alejandro.gomez@example.com"
+    },
+    {
+      "name": "María",
+      "lastName": "López",
+      "speciality": "Pediatría",
+      "cedula": 987654321,
+      "office": 203,
+      "email": "maria.lopez@example.com"
+    },
+    {
+      "name": "Carlos",
+      "lastName": "Martínez",
+      "speciality": "Dermatología",
+      "cedula": 456789123,
+      "office": 305,
+      "email": "carlos.martinez@example.com"
+    }
+  ]
+}
+
